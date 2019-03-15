@@ -2,3 +2,5 @@
 .idea/
 out/
 *.class
+akka-kotlin.iml
+build/kotlin-build/version.txt
